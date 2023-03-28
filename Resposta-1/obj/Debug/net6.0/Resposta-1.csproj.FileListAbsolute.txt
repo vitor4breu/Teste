@@ -1,0 +1,15 @@
+C:\Users\vitor\OneDrive\Área de Trabalho\Projeto\Resposta-1\Resposta-1\bin\Debug\net6.0\Resposta-1.exe
+C:\Users\vitor\OneDrive\Área de Trabalho\Projeto\Resposta-1\Resposta-1\bin\Debug\net6.0\Resposta-1.deps.json
+C:\Users\vitor\OneDrive\Área de Trabalho\Projeto\Resposta-1\Resposta-1\bin\Debug\net6.0\Resposta-1.runtimeconfig.json
+C:\Users\vitor\OneDrive\Área de Trabalho\Projeto\Resposta-1\Resposta-1\bin\Debug\net6.0\Resposta-1.dll
+C:\Users\vitor\OneDrive\Área de Trabalho\Projeto\Resposta-1\Resposta-1\bin\Debug\net6.0\Resposta-1.pdb
+C:\Users\vitor\OneDrive\Área de Trabalho\Projeto\Resposta-1\Resposta-1\obj\Debug\net6.0\Resposta-1.csproj.AssemblyReference.cache
+C:\Users\vitor\OneDrive\Área de Trabalho\Projeto\Resposta-1\Resposta-1\obj\Debug\net6.0\Resposta-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitor\OneDrive\Área de Trabalho\Projeto\Resposta-1\Resposta-1\obj\Debug\net6.0\Resposta-1.AssemblyInfoInputs.cache
+C:\Users\vitor\OneDrive\Área de Trabalho\Projeto\Resposta-1\Resposta-1\obj\Debug\net6.0\Resposta-1.AssemblyInfo.cs
+C:\Users\vitor\OneDrive\Área de Trabalho\Projeto\Resposta-1\Resposta-1\obj\Debug\net6.0\Resposta-1.csproj.CoreCompileInputs.cache
+C:\Users\vitor\OneDrive\Área de Trabalho\Projeto\Resposta-1\Resposta-1\obj\Debug\net6.0\Resposta-1.dll
+C:\Users\vitor\OneDrive\Área de Trabalho\Projeto\Resposta-1\Resposta-1\obj\Debug\net6.0\refint\Resposta-1.dll
+C:\Users\vitor\OneDrive\Área de Trabalho\Projeto\Resposta-1\Resposta-1\obj\Debug\net6.0\Resposta-1.pdb
+C:\Users\vitor\OneDrive\Área de Trabalho\Projeto\Resposta-1\Resposta-1\obj\Debug\net6.0\Resposta-1.genruntimeconfig.cache
+C:\Users\vitor\OneDrive\Área de Trabalho\Projeto\Resposta-1\Resposta-1\obj\Debug\net6.0\ref\Resposta-1.dll
